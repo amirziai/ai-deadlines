@@ -3,3 +3,5 @@
   sub: stanford
 - name: Georgia Tech
   sub: gatech
+- name: AI with TF
+  sub: aiwithtf
