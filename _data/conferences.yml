@@ -5,7 +5,7 @@
   id: cs228
   link: http://s2018.siggraph.org/
   deadline: "2018-02-02 21:59:59"
-  timezone: PST
+  timezone: America/Los_Angeles
   date: Feb 2, 2018
   place: Online
   sub: stanford
@@ -15,7 +15,7 @@
   id: cs205a
   link: http://graphics.stanford.edu/courses/cs205a/
   deadline: "2018-02-01 23:59:59"
-  timezone: PST
+  timezone: America/Los_Angeles
   date: Feb 1, 2018
   place: Online
   sub: stanford
@@ -25,7 +25,7 @@
   id: cs7641
   link: https://www.omscs.gatech.edu/cs-7641-machine-learning
   deadline: "2018-02-04 23:59:59"
-  timezone: PST
+  timezone: America/Los_Angeles
   date: Feb 4, 2018
   place: Online
   sub: gatech
