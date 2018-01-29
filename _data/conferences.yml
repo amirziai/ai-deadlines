@@ -44,7 +44,7 @@
 - name: CS205A HW4
   id: cs205ahw4
   link: http://graphics.stanford.edu/courses/cs205a/
-  deadline: "2018-02-13 23:59:59"
+  deadline: "2018-02-15 23:59:59"
   timezone: America/Los_Angeles
   sub: stanford
 
