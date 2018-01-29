@@ -20,6 +20,13 @@
   timezone: America/Los_Angeles
   sub: gatech
 
+- name: CS205A HW3
+  id: cs205ahw3
+  link: http://graphics.stanford.edu/courses/cs205a/
+  deadline: "2018-02-08 23:59:59"
+  timezone: America/Los_Angeles
+  sub: stanford
+
 - name: AI with TF Book Chapter 3 DL
   id: aiwithtfdl
   link: https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-tensorflow
@@ -34,10 +41,24 @@
   timezone: America/Los_Angeles
   sub: stanford
 
+- name: CS205A HW4
+  id: cs205ahw4
+  link: http://graphics.stanford.edu/courses/cs205a/
+  deadline: "2018-02-13 23:59:59"
+  timezone: America/Los_Angeles
+  sub: stanford
+
 - name: CS228 HW3
   id: cs228hw3
   link: https://cs.stanford.edu/~ermon/cs228/index.html
   deadline: "2018-02-17 23:59:59"
+  timezone: America/Los_Angeles
+  sub: stanford
+
+- name: CS205A HW5
+  id: cs205ahw5
+  link: http://graphics.stanford.edu/courses/cs205a/
+  deadline: "2018-02-22 23:59:59"
   timezone: America/Los_Angeles
   sub: stanford
 
@@ -47,6 +68,13 @@
   deadline: "2018-02-23 23:59:59"
   timezone: America/Los_Angeles
   sub: gatech
+
+- name: CS205A HW6
+  id: cs205ahw6
+  link: http://graphics.stanford.edu/courses/cs205a/
+  deadline: "2018-03-01 23:59:59"
+  timezone: America/Los_Angeles
+  sub: stanford
 
 - name: AI with TF Book NLP
   id: aiwithtfnlp
@@ -68,6 +96,13 @@
   deadline: "2018-03-11 23:59:59"
   timezone: America/Los_Angeles
   sub: gatech
+
+- name: CS205A HW7
+  id: cs205ahw7
+  link: http://graphics.stanford.edu/courses/cs205a/
+  deadline: "2018-03-13 23:59:59"
+  timezone: America/Los_Angeles
+  sub: stanford
 
 - name: CS228 HW5
   id: cs228hw5
