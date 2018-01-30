@@ -27,6 +27,13 @@
   timezone: America/Los_Angeles
   sub: stanford
 
+- name: KDD
+  id: kdd
+  link: http://www.kdd.org/kdd2018/calls/view/kdd-2018-call-for-applied-data-science-papers
+  deadline: "2018-02-10 23:59:59"
+  timezone: America/Los_Angeles
+  sub: conf
+
 - name: AI with TF Book Chapter 3 DL
   id: aiwithtfdl
   link: https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-tensorflow

@@ -5,3 +5,5 @@
   sub: gatech
 - name: AI with TF
   sub: aiwithtf
+- name: Conference
+  sub: conf
