@@ -48,17 +48,17 @@
   timezone: America/Los_Angeles
   sub: stanford
 
+- name: CS228 HW3
+  id: cs228hw3
+  link: https://cs.stanford.edu/~ermon/cs228/index.html
+  deadline: "2018-02-13 23:59:59"
+  timezone: America/Los_Angeles
+  sub: stanford
+
 - name: CS205A HW4
   id: cs205ahw4
   link: http://graphics.stanford.edu/courses/cs205a/
   deadline: "2018-02-15 23:59:59"
-  timezone: America/Los_Angeles
-  sub: stanford
-
-- name: CS228 HW3
-  id: cs228hw3
-  link: https://cs.stanford.edu/~ermon/cs228/index.html
-  deadline: "2018-02-17 23:59:59"
   timezone: America/Los_Angeles
   sub: stanford
 
