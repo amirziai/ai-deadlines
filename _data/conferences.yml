@@ -16,7 +16,7 @@
 - name: CS7641 P1
   id: cs7641p1
   link: https://www.omscs.gatech.edu/cs-7641-machine-learning
-  deadline: "2018-02-04 23:59:59"
+  deadline: "2018-02-04 20:59:59"
   timezone: America/Los_Angeles
   sub: gatech
 
