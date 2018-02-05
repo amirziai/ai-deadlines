@@ -1,38 +1,10 @@
 ---
-- name: CS205A HW2
-  id: cs205ahw2
-  link: http://graphics.stanford.edu/courses/cs205a/
-  deadline: "2018-02-01 23:59:59"
-  timezone: America/Los_Angeles
-  sub: stanford
-
-- name: CS228 HW2
-  id: cs228hw2
-  link: https://cs.stanford.edu/~ermon/cs228/index.html
-  deadline: "2018-02-02 23:59:59"
-  timezone: America/Los_Angeles
-  sub: stanford
-
-- name: CS7641 P1
-  id: cs7641p1
-  link: https://www.omscs.gatech.edu/cs-7641-machine-learning
-  deadline: "2018-02-04 20:59:59"
-  timezone: America/Los_Angeles
-  sub: gatech
-
 - name: CS205A HW3
   id: cs205ahw3
   link: http://graphics.stanford.edu/courses/cs205a/
   deadline: "2018-02-08 23:59:59"
   timezone: America/Los_Angeles
   sub: stanford
-
-- name: KDD
-  id: kdd
-  link: http://www.kdd.org/kdd2018/calls/view/kdd-2018-call-for-applied-data-science-papers
-  deadline: "2018-02-10 23:59:59"
-  timezone: America/Los_Angeles
-  sub: conf
 
 - name: AI with TF Book Chapter 3 DL
   id: aiwithtfdl
