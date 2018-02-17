@@ -1,39 +1,4 @@
 ---
-- name: CS205A HW3
-  id: cs205ahw3
-  link: http://graphics.stanford.edu/courses/cs205a/
-  deadline: "2018-02-08 23:59:59"
-  timezone: America/Los_Angeles
-  sub: stanford
-
-- name: AI with TF Book Chapter 3 DL
-  id: aiwithtfdl
-  link: https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-tensorflow
-  deadline: "2018-02-10 23:59:59"
-  timezone: America/Los_Angeles
-  sub: aiwithtf
-
-- name: CS205A MT
-  id: cs205amt
-  link: http://graphics.stanford.edu/courses/cs205a/
-  deadline: "2018-02-13 23:59:59"
-  timezone: America/Los_Angeles
-  sub: stanford
-
-- name: CS228 HW3
-  id: cs228hw3
-  link: https://cs.stanford.edu/~ermon/cs228/index.html
-  deadline: "2018-02-13 23:59:59"
-  timezone: America/Los_Angeles
-  sub: stanford
-
-- name: CS205A HW4
-  id: cs205ahw4
-  link: http://graphics.stanford.edu/courses/cs205a/
-  deadline: "2018-02-15 23:59:59"
-  timezone: America/Los_Angeles
-  sub: stanford
-
 - name: CS205A HW5
   id: cs205ahw5
   link: http://graphics.stanford.edu/courses/cs205a/
@@ -55,13 +20,6 @@
   timezone: America/Los_Angeles
   sub: stanford
 
-- name: AI with TF Book NLP
-  id: aiwithtfnlp
-  link: https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-tensorflow
-  deadline: "2018-03-03 23:59:59"
-  timezone: America/Los_Angeles
-  sub: aiwithtf
-
 - name: CS228 HW4
   id: cs228hw4
   link: https://cs.stanford.edu/~ermon/cs228/index.html
@@ -75,6 +33,13 @@
   deadline: "2018-03-11 23:59:59"
   timezone: America/Los_Angeles
   sub: gatech
+
+- name: AI with TF Book Chapter 3 DL
+  id: aiwithtfdl
+  link: https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-tensorflow
+  deadline: "2018-03-11 23:59:59"
+  timezone: America/Los_Angeles
+  sub: aiwithtf
 
 - name: CS205A HW7
   id: cs205ahw7
@@ -117,6 +82,13 @@
   deadline: "2018-04-01 23:59:59"
   timezone: America/Los_Angeles
   sub: gatech
+
+- name: AI with TF Book NLP
+  id: aiwithtfnlp
+  link: https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-tensorflow
+  deadline: "2018-04-01 23:59:59"
+  timezone: America/Los_Angeles
+  sub: aiwithtf
 
 - name: AI with TF Book HW
   id: aiwithtfhw
