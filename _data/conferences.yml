@@ -42,7 +42,7 @@
   sub: aiwithtf
 
 - name: AI with TF Book DRL
-  id: aiwithtfhw
+  id: aiwithtfdrl
   link: https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-tensorflow
   deadline: "2018-04-15 23:59:59"
   timezone: America/Los_Angeles
