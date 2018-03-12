@@ -1,11 +1,4 @@
 ---
-- name: AI with TF Book Chapter 3 DL
-  id: aiwithtfdl
-  link: https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-tensorflow
-  deadline: "2018-03-11 23:59:59"
-  timezone: America/Los_Angeles
-  sub: aiwithtf
-
 - name: CS228 HW5
   id: cs228hw5
   link: https://cs.stanford.edu/~ermon/cs228/index.html
