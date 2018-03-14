@@ -1,11 +1,4 @@
 ---
-- name: CS228 HW5
-  id: cs228hw5
-  link: https://cs.stanford.edu/~ermon/cs228/index.html
-  deadline: "2018-03-15 23:59:59"
-  timezone: America/Los_Angeles
-  sub: stanford
-
 - name: CS205A HW8
   id: cs205ahw8
   link: http://graphics.stanford.edu/courses/cs205a/
@@ -13,17 +6,24 @@
   timezone: America/Los_Angeles
   sub: stanford
 
+- name: CS228 HW5
+  id: cs228hw5
+  link: https://cs.stanford.edu/~ermon/cs228/index.html
+  deadline: "2018-03-18 23:59:59"
+  timezone: America/Los_Angeles
+  sub: stanford
+
 - name: CS205A Final
   id: cs205afinal
   link: http://graphics.stanford.edu/courses/cs205a/
-  deadline: "2018-03-20 23:59:59"
+  deadline: "2018-03-20 12:59:59"
   timezone: America/Los_Angeles
   sub: stanford
 
 - name: CS228 Final
   id: cs228final
   link: https://cs.stanford.edu/~ermon/cs228/index.html
-  deadline: "2018-03-21 23:59:59"
+  deadline: "2018-03-21 12:59:59"
   timezone: America/Los_Angeles
   sub: stanford
 
