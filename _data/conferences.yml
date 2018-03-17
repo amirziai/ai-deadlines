@@ -1,11 +1,4 @@
 ---
-- name: CS205A HW8
-  id: cs205ahw8
-  link: http://graphics.stanford.edu/courses/cs205a/
-  deadline: "2018-03-18 23:59:59"
-  timezone: America/Los_Angeles
-  sub: stanford
-
 - name: CS205A Final
   id: cs205afinal
   link: http://graphics.stanford.edu/courses/cs205a/
