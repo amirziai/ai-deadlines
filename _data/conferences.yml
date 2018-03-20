@@ -1,11 +1,4 @@
 ---
-- name: CS205A Final
-  id: cs205afinal
-  link: http://graphics.stanford.edu/courses/cs205a/
-  deadline: "2018-03-20 12:59:59"
-  timezone: America/Los_Angeles
-  sub: stanford
-
 - name: CS228 Final
   id: cs228final
   link: https://cs.stanford.edu/~ermon/cs228/index.html
