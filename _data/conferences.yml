@@ -1,11 +1,4 @@
 ---
-- name: CS228 Final
-  id: cs228final
-  link: https://cs.stanford.edu/~ermon/cs228/index.html
-  deadline: "2018-03-21 12:59:59"
-  timezone: America/Los_Angeles
-  sub: stanford
-
 - name: CS7641 P3
   id: cs7641p3
   link: https://www.omscs.gatech.edu/cs-7641-machine-learning
